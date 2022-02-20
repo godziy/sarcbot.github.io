@@ -85,11 +85,6 @@ function addChat(input, product) {
   messagesContainer.scrollTop =
     messagesContainer.scrollHeight - messagesContainer.clientHeight;
 
-  // Fake delay to seem "real"
-  setTimeout(() => {
-    botText.innerText = `${product}`;
-    textToSpeech(product);
-  }, 2000);
 }
 
 const prompts = [

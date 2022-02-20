@@ -119,7 +119,7 @@ const prompts = [
   ['no', 'not sure', 'maybe', 'no thanks'],
   [''],
   ['haha', 'ha', 'lol', 'hehe', 'funny', 'joke'],
-  ['that is not funny'],
+  ['that is not funny','this is not funny'],
   ['sarcastic huh haha', 'tell me more about you'],
   ['i do not like it'],
   ['you are so smart'],
